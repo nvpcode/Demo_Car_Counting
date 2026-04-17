@@ -14,7 +14,7 @@ Project đếm xe ra/vào sử dụng YOLO tracking kết hợp với trajectory
 
 ## Video Demo
 
-![Demo Video](/d:/Projects_Personal/Project_Car_Counting/output-demo.mp4)
+![Demo Video](output-demo.mp4)
 
 ## Cách Sử Dụng
 
