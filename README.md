@@ -12,8 +12,8 @@ Project đếm xe ra/vào sử dụng YOLO tracking kết hợp với trajectory
 - **Visual feedback**: Vùng đếm nhấp nháy vàng khi có xe đi qua
 - **Bounding boxes**: Hiển thị khung xe kèm ID
 
-## Video Demo
-
+## Demo
+![img](img_demo.png)
 ![Demo Video](output-demo.mp4)
 
 ## Cách Sử Dụng
